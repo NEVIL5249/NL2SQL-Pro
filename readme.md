@@ -94,10 +94,16 @@ NL2SQL-PRO/
 └── package-lock.json    # Lock file for server dependencies
 ```
 
-## 💡 Usage
+## 🧪 Demo
 
-1.  **Launch the Application:** Follow the installation steps to start both the server and the client.
-2.  **Provide Schema (Optional):** In the "Database Schema" textarea, you can paste your database table definitions (e.g., `CREATE TABLE` statements) to give the Llama 3 model more context for generating accurate SQL.
-3.  **Enter Natural Language Query:** In the "Natural Language Query" textarea, type your question in plain English (e.g., "Find all users older than 25 from the 'users' table").
-4.  **Convert to SQL:** Click the "Convert to SQL" button. The application will send your query to the local server, which will use Llama 3 to generate the corresponding SQL.
-5.  **View and Copy SQL:** The generated SQL query will appear in the "Generated SQL" section. You can then easily copy it to your clipboard.
+### 🖥️ User Interface
+
+This is how the clean and modern UI looks.
+
+![Screenshot of the UI](assets/image.png)
+
+### 🎬 Live Conversion
+
+Watch a quick video of the application in action.
+
+[Watch the Demo Video](assets/NL2SQL-pro-demo.mp4)
